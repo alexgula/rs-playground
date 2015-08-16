@@ -1,2 +1,6 @@
 target
 Cargo.lock
+
+# Do not ignore files set in global ignore
+!*.exe
+!*.dll
