@@ -1,0 +1,7 @@
+[package]
+name = "web_hyper"
+version = "0.1.0"
+authors = ["Oleksandr Gula <alexgula@gmail.com>"]
+
+[dependencies]
+hyper = "0.6"
