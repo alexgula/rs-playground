@@ -3,5 +3,17 @@ name = "playground"
 version = "0.1.0"
 authors = ["Oleksandr Gula <alexgula@gmail.com>"]
 
+[dependencies.arcade_rs]
+path = "arcade_rs"
+
+[dependencies.guessing_game]
+path = "guessing_game"
+
 [dependencies.hello_world]
 path = "hello_world"
+
+[dependencies.lists]
+path = "lists"
+
+[dependencies.web_hyper]
+path = "web_hyper"
